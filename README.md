@@ -1,13 +1,10 @@
-# HTML_Classrom--VideoPart01
+English 
 
-Advanced Html 
+the objective of this challenge is to insert a video into an HTML page and then you style it with CSS.
 
 
-The objective of this lesson is to insert a video on a page.
-# gabrielalvino-HTML-Classroom-VideoPart01-
-# gabrielalvino-HTML-Classroom-VideoPart01-
-# HTML-Classroom-VideoPart1
-# HTML-Classroom-VideoPart1
-# HTML-Classroom-VideoPart1
-# HTML-Classroom-VideoPart1
-# HTML-Classroom-VideoPart1
+PT
+
+o presente desafio tem com objetivo inserir um vídeo em um pagina HTML e depois você estilizar com CSS.
+
+
